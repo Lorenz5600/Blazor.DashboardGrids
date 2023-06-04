@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\Blazor.DashboardGrids\\Grid\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "D:\\Projects\\Blazor.DashboardGrids\\Grid\\wwwroot\\style.min.css",
+      "PackagePath": "staticwebassets\\style.min.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Excubo.Blazor.Grids.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Excubo.Blazor.Grids.props",
+      "PackagePath": "build\\Excubo.Blazor.Grids.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Excubo.Blazor.Grids.props",
+      "PackagePath": "buildMultiTargeting\\Excubo.Blazor.Grids.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Excubo.Blazor.Grids.props",
+      "PackagePath": "buildTransitive\\Excubo.Blazor.Grids.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

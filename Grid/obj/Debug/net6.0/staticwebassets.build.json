@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "9oG1p/JwLBqImK6wGyskEIAeLtkyqfZjLzyHzpBse2E=",
+  "Source": "Excubo.Blazor.Grids",
+  "BasePath": "_content/Excubo.Blazor.Grids",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Excubo.Blazor.Grids\\wwwroot",
+      "Source": "Excubo.Blazor.Grids",
+      "ContentRoot": "D:\\Projects\\Blazor.DashboardGrids\\Grid\\wwwroot\\",
+      "BasePath": "_content/Excubo.Blazor.Grids",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\Blazor.DashboardGrids\\Grid\\wwwroot\\style.css",
+      "SourceId": "Excubo.Blazor.Grids",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Blazor.DashboardGrids\\Grid\\wwwroot\\",
+      "BasePath": "_content/Excubo.Blazor.Grids",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    },
+    {
+      "Identity": "D:\\Projects\\Blazor.DashboardGrids\\Grid\\wwwroot\\style.min.css",
+      "SourceId": "Excubo.Blazor.Grids",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Blazor.DashboardGrids\\Grid\\wwwroot\\",
+      "BasePath": "_content/Excubo.Blazor.Grids",
+      "RelativePath": "style.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.min.css"
+    }
+  ]
+}

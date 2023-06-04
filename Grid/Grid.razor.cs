@@ -255,14 +255,22 @@ namespace Excubo.Blazor.Grids
             render_elements.Add(element);
             element.render_required = true;
         }
+
+        bool rearrangeElements;
+        /// <summary>
+        /// After adding new elements, call this to rearrange
+        /// </summary>
+        public void ReArrangeElements() => rearrangeElements = true;
+
         protected override async Task OnAfterRenderAsync(bool firstRender)
         {
-            if (firstRender)
+            if (firstRender || rearrangeElements)
             {
                 foreach (var element in elements)
                 {
                     await ResolveOverlapsAsync(element, (1, 0));
                 }
+				rearrangeElements = false;
             }
             render_elements.Clear();
             await base.OnAfterRenderAsync(firstRender);

@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TestProject_Components
+build_property.RootNamespace = TestProject_Components
+build_property.ProjectDir = d:\projects\Blazor.DashboardGrids\TestProject_Components\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\projects\Blazor.DashboardGrids\TestProject_Components
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Pages/AspectRatio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNwZWN0UmF0aW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Pages/CustomHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tSGVhZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Pages/DashboardDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkRGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Pages/ElementClass.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWxlbWVudENsYXNzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Pages/Events.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Pages/GridDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JpZERlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Pages/MovableAndResizableElements.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92YWJsZUFuZFJlc2l6YWJsZUVsZW1lbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Pages/MovableElements.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92YWJsZUVsZW1lbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Pages/NamedAreas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmFtZWRBcmVhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Pages/OverlayCustomization.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3ZlcmxheUN1c3RvbWl6YXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Pages/PreventOverlapElements.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJldmVudE92ZXJsYXBFbGVtZW50cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Pages/ResizableElements.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzaXphYmxlRWxlbWVudHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Pages/Titles.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGl0bGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Shared/CommitLink.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbW1pdExpbmsucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Shared/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/Shared/SourceCodeLink.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNvdXJjZUNvZGVMaW5rLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/projects/Blazor.DashboardGrids/TestProject_Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

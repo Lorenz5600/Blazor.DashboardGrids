@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Excubo.Blazor.Grids
+build_property.RootNamespace = Excubo.Blazor.Grids
+build_property.ProjectDir = D:\Projects\Blazor.DashboardGrids\Grid\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Projects\Blazor.DashboardGrids\Grid
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Projects/Blazor.DashboardGrids/Grid/Element.razor]
+build_metadata.AdditionalFiles.TargetPath = RWxlbWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Blazor.DashboardGrids/Grid/Grid.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JpZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Blazor.DashboardGrids/Grid/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Blazor.DashboardGrids/Grid/__Internal/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = X19JbnRlcm5hbFxIZWFkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Blazor.DashboardGrids/Grid/__Internal/Heading.razor]
+build_metadata.AdditionalFiles.TargetPath = X19JbnRlcm5hbFxIZWFkaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Blazor.DashboardGrids/Grid/__Internal/MovingIndicatorOverlay.razor]
+build_metadata.AdditionalFiles.TargetPath = X19JbnRlcm5hbFxNb3ZpbmdJbmRpY2F0b3JPdmVybGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Blazor.DashboardGrids/Grid/__Internal/ResizeHandle.razor]
+build_metadata.AdditionalFiles.TargetPath = X19JbnRlcm5hbFxSZXNpemVIYW5kbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
